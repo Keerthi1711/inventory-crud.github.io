@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Redmi",
+        "age": 30
+    },
+    {
+        "id": 2,
+        "name": "Samsung",
+        "age": 40
+    },
+    {
+        "id": 3,
+        "name": "iPhone",
+        "age": 20
+    },
+    {
+        "id": 4,
+        "name": "Vivo",
+        "age": 10
+    }
+]
